@@ -1,0 +1,325 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/takuya/hunter_chamaleon_projectfile-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49383
+Successfully changed project path to: /Users/takuya/hunter_chamaleon_projectfile-main
+/Users/takuya/hunter_chamaleon_projectfile-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 127.06 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/takuya/hunter_chamaleon_projectfile-main/Assets
+GfxDevice: creating device client; threaded=0
+2022-05-18 18:21:50.991 Unity[1505:26114] (null) preferred device: Apple M1 (high power)
+2022-05-18 18:21:50.991 Unity[1505:26114] Metal devices available: 1
+2022-05-18 18:21:50.991 Unity[1505:26114] 0: Apple M1 (high power)
+2022-05-18 18:21:50.992 Unity[1505:26114] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56505
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001547 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.87 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.713 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.57 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.901 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.9 MB.
+System memory in use after: 176.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2767.
+Total: 1.743458 ms (FindLiveObjects: 0.161542 ms CreateObjectMapping: 0.106208 ms MarkObjects: 1.446708 ms  DeleteObjects: 0.028041 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sounds/pichi.mp3
+  artifactKey: Guid(af22ac0bd6e5d4317a7b6e9c9dbd73a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/pichi.mp3 using Guid(af22ac0bd6e5d4317a7b6e9c9dbd73a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02fd275386bbd4f1966e0e32f8e92b6') in 0.794493 seconds
+  Import took 0.799178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Sounds/Achivement.mp3
+  artifactKey: Guid(76b1a5a39994f483aaf13aba16737ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Achivement.mp3 using Guid(76b1a5a39994f483aaf13aba16737ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fdf2e4c242487814c03d31889d566a4') in 0.009313 seconds
+  Import took 0.012831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sounds/hoissuru.mp3
+  artifactKey: Guid(0e4ad08ffd670462c8ef2d0696111d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/hoissuru.mp3 using Guid(0e4ad08ffd670462c8ef2d0696111d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114c8afc10dca5e8c1bffe9b8d5e9b45') in 0.007563 seconds
+  Import took 0.011648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sounds/slider.mp3
+  artifactKey: Guid(c43cffe7729ce419db207626cc37016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/slider.mp3 using Guid(c43cffe7729ce419db207626cc37016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a19c77afbad93cfb56ed86b767a1caa') in 0.005565 seconds
+  Import took 0.009153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sounds/shu.mp3
+  artifactKey: Guid(087050bc572c3416bb1a6c403f37d8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/shu.mp3 using Guid(087050bc572c3416bb1a6c403f37d8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a54ca8e8ead47466036474c9dc244f1') in 0.005533 seconds
+  Import took 0.008969 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2320 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.5 MB.
+System memory in use after: 182.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2780.
+Total: 1.506750 ms (FindLiveObjects: 0.129000 ms CreateObjectMapping: 0.045584 ms MarkObjects: 1.304375 ms  DeleteObjects: 0.026959 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4979.336730 seconds.
+  path: Assets/MainController.cs
+  artifactKey: Guid(f99d7a0f0e8e244e9ba1d1d0994eee6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainController.cs using Guid(f99d7a0f0e8e244e9ba1d1d0994eee6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e63b3032cf18e48ec7661d1d05f25b') in 0.200477 seconds
+  Import took 0.213773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.051642 seconds.
+  path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd
+  artifactKey: Guid(1ab331a196bae1046b7a75ed7e3f6b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd using Guid(1ab331a196bae1046b7a75ed7e3f6b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6beef170c20f10a02309523654ef94') in 0.338960 seconds
+  Import took 0.349110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Ground Close.png
+  artifactKey: Guid(0cee1dfe8b5452549bc827cec8c291e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Ground Close.png using Guid(0cee1dfe8b5452549bc827cec8c291e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe91a83c78318a2989e1a386352c76f3') in 0.345574 seconds
+  Import took 0.350879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png
+  artifactKey: Guid(11277a3f23988ec47908362d708edaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png using Guid(11277a3f23988ec47908362d708edaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753017c051fcf3ddd6ea659ae4846de2') in 0.008856 seconds
+  Import took 0.013729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Food icons Pack/PNG/cheese2.png
+  artifactKey: Guid(b0155957134394e3ab756113ac6a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/cheese2.png using Guid(b0155957134394e3ab756113ac6a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd4664f7a932b8713ae364cbf4b24e9') in 0.012384 seconds
+  Import took 0.016722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png
+  artifactKey: Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png using Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bf8039f1f5011053febb716eb698c3') in 0.015031 seconds
+  Import took 0.019956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Trees Close.png
+  artifactKey: Guid(414f09948a25ca24c81f600658f1bc04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Trees Close.png using Guid(414f09948a25ca24c81f600658f1bc04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8baf317c0e1d693a15e6b2cbe9382e') in 0.012639 seconds
+  Import took 0.017892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png
+  artifactKey: Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png using Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bf8039f1f5011053febb716eb698c3') in 0.013390 seconds
+  Import took 0.017968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Images/settings.png
+  artifactKey: Guid(f9d2d1fe14ab149118eef74551932733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/settings.png using Guid(f9d2d1fe14ab149118eef74551932733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f413aaacd39fee0c73d8bc896632005') in 0.009749 seconds
+  Import took 0.014011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Mountains Close .png
+  artifactKey: Guid(58010860b27c3d44db587533a412efd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Mountains Close .png using Guid(58010860b27c3d44db587533a412efd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9d675b0af689bdce32ac30e78a02b5') in 0.008887 seconds
+  Import took 0.013058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Food icons Pack/PNG/sunflower seeds.png
+  artifactKey: Guid(475d1ac95f51a4b41969b1c49e47b1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/sunflower seeds.png using Guid(475d1ac95f51a4b41969b1c49e47b1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae7002a02c94f0cfad03932531f6ae6') in 0.009407 seconds
+  Import took 0.013700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Hills CLose.png
+  artifactKey: Guid(cf4447e4a46afd14e9e6c05869c42387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Hills CLose.png using Guid(cf4447e4a46afd14e9e6c05869c42387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1a3293de46f0d8efd4d14abe33b09c') in 0.011860 seconds
+  Import took 0.016002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Settings.png
+  artifactKey: Guid(2504ef69ace374ef2b3c81828112abbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Settings.png using Guid(2504ef69ace374ef2b3c81828112abbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef07d8e0a8331a00d81d96751d6dc1e') in 0.011394 seconds
+  Import took 0.015671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Hills CLose.png
+  artifactKey: Guid(e9261713c95514240852908cf6e0d0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Hills CLose.png using Guid(e9261713c95514240852908cf6e0d0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b75578e82f82fc06fb93d2ce3847889') in 0.011720 seconds
+  Import took 0.015597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Food icons Pack/PNG/cheese.png
+  artifactKey: Guid(3ba5a88a0508a488a85c30169a8e18de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/cheese.png using Guid(3ba5a88a0508a488a85c30169a8e18de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6814a36de158dbecfecf5813a464630') in 0.009281 seconds
+  Import took 0.013182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Food icons Pack/PNG/sea buckthorn.png
+  artifactKey: Guid(2778111920a9f48399ec6cb24229d5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/sea buckthorn.png using Guid(2778111920a9f48399ec6cb24229d5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a85cf964520d15e583c94cc0bce939a') in 0.008668 seconds
+  Import took 0.012505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Mountains Close.png
+  artifactKey: Guid(1970d1dcf4a35ca45a93981a11b2c6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Night/Background Night/Night Mountains Close.png using Guid(1970d1dcf4a35ca45a93981a11b2c6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d707190d5103f9432db5365320dc30') in 0.008118 seconds
+  Import took 0.012219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Images/Pause.png
+  artifactKey: Guid(5539c15821afe4a86b45a5c68297119f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Pause.png using Guid(5539c15821afe4a86b45a5c68297119f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66111cc969e0e673c2efb5372601bb22') in 0.007242 seconds
+  Import took 0.011113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Ground Close.png
+  artifactKey: Guid(a89243217e543fe4588b733cf125e7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Forest Tileset Pack Toon Style/Day/Background Day/Ground Close.png using Guid(a89243217e543fe4588b733cf125e7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3cd4d9fda8b9eb2febae3dc89641cc') in 0.008450 seconds
+  Import took 0.013228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Food icons Pack/PNG/cheesecake.png
+  artifactKey: Guid(55fee746438a44352bf8b7ee9998f174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/cheesecake.png using Guid(55fee746438a44352bf8b7ee9998f174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c7259e02823916b877c063a653ddae8') in 0.008998 seconds
+  Import took 0.013343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.305487 seconds.
+  path: Assets/Scripts/Edit/SetImage.cs
+  artifactKey: Guid(efe5665d671e548288ed807285f757e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Edit/SetImage.cs using Guid(efe5665d671e548288ed807285f757e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1aef20e0c159fd64b3a3ffc9be1c7a7') in 0.002097 seconds
+  Import took 0.007178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001914 seconds.
+  path: Assets/Scripts/Edit/SetImage.cs
+  artifactKey: Guid(efe5665d671e548288ed807285f757e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Edit/SetImage.cs using Guid(efe5665d671e548288ed807285f757e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1aef20e0c159fd64b3a3ffc9be1c7a7') in 0.000993 seconds
+  Import took 0.005138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.321789 seconds.
+  path: Assets/Food icons Pack/PNG/apple .png
+  artifactKey: Guid(2aa6ab62866ce4439ab7303f7da55e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/apple .png using Guid(2aa6ab62866ce4439ab7303f7da55e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866699d68ee994ae7811f9bdd6bf04a2') in 0.017793 seconds
+  Import took 0.024862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Food icons Pack/PNG/pineapple.png
+  artifactKey: Guid(a2e86a433aa8b49018db7c80923744bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food icons Pack/PNG/pineapple.png using Guid(a2e86a433aa8b49018db7c80923744bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0854ec492e3c0ed01f26abd2c36fdc') in 0.012268 seconds
+  Import took 0.017259 seconds .
+
