@@ -24,6 +24,10 @@ ExportedObj/
 *.svd
 *.csv
 *.mp4
+.idea/**/workspace.xml
+.idea/**/projectSettingsUpdater.xml
+.idea/**/indexLayout.xml
+.idea/**/.gitignore
 
 # Unity3D generated meta files
 *.pidb.meta
